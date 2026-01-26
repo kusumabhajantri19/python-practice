@@ -1,2 +1,27 @@
+# ========================
+# Python cache and bytecode
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+
+# ========================
+# IDE files
+# ========================
 .idea/
+*.iml
+.vscode/
+
+# ========================
+# OS junk files
+# ========================
+Thumbs.db
+.DS_Store
 *.lnk
+
+# ========================
+# Virtual environment (optional)
+# ========================
+venv/
+.env/
+.venv/
