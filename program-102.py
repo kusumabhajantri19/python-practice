@@ -1,13 +1,12 @@
 
-# Count how many times a given element appears.
+#  Reverse an array (without using built-in reverse).
 
-n = int(input("Enter an element: "))
-arr = [2,4,34,23,34,45,56,4,2,13,24,45,56,67]
-count = 0
+arr = [2, 4, 6, 8, 10]
 
-print(arr)
+left = 0
+right = len(arr) - 1
 
-for i in arr:
-    if i == n:
-        count += 1
-print(f"Appears  {count} time")
+while left < right:
+    arr[left], arr[right] = arr[right], arr[left]
+    left += 1
+    right -= 1
