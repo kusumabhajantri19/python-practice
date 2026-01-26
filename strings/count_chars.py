@@ -1,6 +1,5 @@
 
-# Count characters in a string
+# Program to count characters in a string
 
-n = input("Enter a string: ")
-
-print("Count:", len(n))
+text = input("Enter a string: ")
+print("Character count:", len(text))

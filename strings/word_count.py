@@ -1,12 +1,7 @@
 
 
-# Count how many words are in a sentence.
+# Program to count words in a sentence
 
 sentence = input("Enter a sentence: ")
-
-count = 1
-for ch in sentence:
-    if ch == " ":
-        count += 1
-
-print("Word count:", count)
+words = sentence.split()
+print("Word count:", len(words))
