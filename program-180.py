@@ -1,4 +1,5 @@
 
+#print odd and even nuber
 
 for i in range(1,11):  #odd
     print(i+i-1)

@@ -1,4 +1,7 @@
 
+
+#Write a Python program to print the first 'n' Fibonacci numbers, where 'n' is input by the user.
+
 num = int(input("enter a number:"))
 a = 0
 b = 1

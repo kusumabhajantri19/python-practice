@@ -1,4 +1,7 @@
 
+
+#Write a Python program to take 'n' numbers as input from the user and print their sum and average.
+
 num = int(input("enter number:"))
 i=0
 sum =0
