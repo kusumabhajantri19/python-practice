@@ -1,4 +1,6 @@
 
+#Third Maximum Number in a List
+
 class Solution:
     def thirdMax(self, nums):
         max1 = max2 = max3 = None
