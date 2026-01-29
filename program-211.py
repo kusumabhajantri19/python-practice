@@ -1,4 +1,7 @@
 
+
+#Create a Python ATM simulation that verifies username, PIN, OTP, and allows cash withdrawal
+
 import random
 correct_name = "Kusuma"
 correct_pin = "1234"

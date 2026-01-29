@@ -1,6 +1,6 @@
 
 
-#using list
+#Perform append, insert, remove, and update operations on a list and print the final result.
 
 items = ["bru","coffee",1,2,'c']
 items.append("grapes")

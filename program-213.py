@@ -1,4 +1,7 @@
 
+
+#Print the calendar for the first six months of a given year using the calendar module
+
 import calendar
 
 year = 2025
