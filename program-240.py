@@ -1,5 +1,5 @@
 
-# Another Example
+# Write a program to demonstrate a login-required decorator in Python.
 
 def login_required(func):
     def wrapper():

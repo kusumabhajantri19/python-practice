@@ -1,5 +1,7 @@
 
 
+#Write a program to compare list comprehensions and generator expressions in Python.
+
 import sys
 # l = [x*x for x in range(1,10001)]
 l = [x*x for x in range(1,5)]

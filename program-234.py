@@ -1,5 +1,5 @@
 
-# Generators
+# Write a program to demonstrate generators in Python.
 
 def simple_gen():
     yield 1

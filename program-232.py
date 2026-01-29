@@ -1,5 +1,5 @@
 
- #Using iterator
+ #Write a program to demonstrate iterators in Python.
  
  numbers = [1,2,3,4,5]
 

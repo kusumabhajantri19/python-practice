@@ -1,5 +1,5 @@
 
-#using iterator
+#Write a program to create a custom iterator using a class in Python.
 
 class CountDown:
     def __init__(self,start):

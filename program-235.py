@@ -1,4 +1,4 @@
-#using generator
+#Write a program to create a generator and iterate with a condition.
 
 def simple_gen(x):
     for i in range(x):

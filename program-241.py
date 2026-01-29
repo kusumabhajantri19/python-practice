@@ -1,4 +1,7 @@
 
+
+#Write a program to log function calls using a decorator in Python.
+
 def login_function_call(func):
     def wrapper():
         print(f"function called {func.__name__}..")
