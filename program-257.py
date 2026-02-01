@@ -1,5 +1,5 @@
 
-#3- space right side right angle triangle
+#Right-Aligned Right Angle Triangle Star Pattern
 
 for i in range(5):
     for j in range(i,5):
