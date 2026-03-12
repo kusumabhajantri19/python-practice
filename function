@@ -1,8 +1,0 @@
-
-
-#using *args function  written example
-
-def info(*args):
-    print(args)
-
-info(10, 20, 30) 
